@@ -19,3 +19,4 @@ Vue.use(Message)
 ```
 ## 下载
 - 下载地址 https://github.com/nullwu/nullwu-vue-message/releases
+- cdn https://unpkg.com/nullwu-vue-message/dist/index.js
