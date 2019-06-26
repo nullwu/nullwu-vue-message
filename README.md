@@ -14,7 +14,7 @@ import Message    from 'nullwu-vue-message'
 Vue.use(Message)
  this.$message({
         type: "success",
-        text: "发布成功!
+        text: "发布成功!"
  });
 ```
 ## 下载
